@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "portfolio-d7d3f": {
+      "hosting": {
+        "portfolio": [
+          "portfolio-d7d3f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "portfolio-d7d3f"
+  }
+}
